@@ -1,4 +1,12 @@
-### Hi there 👋
+# Olá, meu nome é Victor Hideto. 👋
+
+<table>
+<tr>
+  <td valign="center">
+    🎓 Sou formado em Ciência da Computação.
+    🌱 Atualmente estou estudando **Python** para fins estatísticos.
+</tr>
+</table>
 
 <!--
 **hideto18/hideto18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
