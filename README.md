@@ -4,6 +4,7 @@
 <tr>
   <td valign="center">
     🎓 Sou formado em Ciência da Computação.
+    <br>
     🌱 Atualmente estou estudando **Python** para fins estatísticos.
 </tr>
 </table>
