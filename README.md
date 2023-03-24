@@ -3,7 +3,7 @@
 <table>
 <tr>
   <td valign="center">
-    🔭 Tarbalho hoje como analista de Dados Jr. na Catupiry Laticíneos.
+    🔭 Tarbalho hoje como analista de Dados Jr. na Catupiry Laticínios.
     <br>
     🎓 Sou formado em Ciência da Computação.
     <br>
