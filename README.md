@@ -3,9 +3,11 @@
 <table>
 <tr>
   <td valign="center">
+    🔭 Tarbalho hoje como analista de Dados Jr. na Catupiry Laticíneos.
     🎓 Sou formado em Ciência da Computação.
     <br>
-    🌱 Atualmente estou estudando **Python** para fins estatísticos.
+    🌱 Atualmente estou estudando **Python** para fins estatísticos, com enfâse em Data Science.
+    
 </tr>
 </table>
 
