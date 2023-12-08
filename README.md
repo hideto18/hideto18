@@ -3,11 +3,9 @@
 <table>
 <tr>
   <td valign="center">
-    🔭 Trabalho hoje como analista de Dados Jr. na Catupiry Laticínios.
+    🔭 Trabalho hoje como Analista de BI..
     <br>
-    🎓 Sou formado em Ciência da Computação.
-    <br>
-    🌱 Atualmente estou estudando **Python** para fins estatísticos, com enfâse em Data Science.
+    🎓 Sou Formado em Ciência da Computação.
     
 </tr>
 </table>
